@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Vinícius Solique  👋
-Sou estudante do IFMS Campus Nova Andradina - MS, tenho 17 anos, gosto bastante de tecnologia.
+Sou estudante do IFMS Campus Nova Andradina - MS, tenho 18 anos, gosto bastante de tecnologia.
 
 ## Rede Social:
 
