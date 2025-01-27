@@ -1,5 +1,11 @@
 ### Olá! Eu sou o Vinícius Solique  👋
-Sou estudante do IFMS Campus Nova Andradina - MS, tenho 18 anos, gosto bastante de tecnologia.
+Tenho 19 anos, atualmenente estou trabalhando um Suporte Service Desk na Ganso Sistemas. Sou Técino de Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul. 
+
+Tenho utilizado o github como um portfolio para guarda os progrmas para internet que fiz durante o curso de informática do ensino médio. 
+
+Espero que gostem. 
+
+:)
 
 ## Rede Social:
 
